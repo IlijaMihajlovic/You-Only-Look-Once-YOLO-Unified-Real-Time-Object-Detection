@@ -1,2 +1,2 @@
-Computer Vision with YOLO Unified – Real-Time Object Detection
+Computer Vision with YOLO Unified: Building Real-Time Object Detection
 
