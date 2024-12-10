@@ -1,2 +1,2 @@
-Computer Vision with YOLO Unified – Real-Time Object Detection Using PyTorch
+Computer Vision with YOLO Unified – Real-Time Object Detection Using PyTorch.
 
